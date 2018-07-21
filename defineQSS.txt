@@ -1,0 +1,6 @@
+@backgroundcolor = #1395BA
+@hovercolor = #F16C20
+@scrollbar = #1286A8
+@handle = #D0EAF1
+@font = '000 CCMonologous [TeddyBear]'
+@sizeicon = 22px

@@ -1,0 +1,22 @@
+QLabel#loading{
+	min-width: 22px;
+	max-width: 22px;
+}
+
+QLabel#blogtruyen{
+	image: url(:/blogtruyen.png);
+	min-width: 22px;
+	max-width: 22px;
+}
+
+QLabel#hentaivn{
+	image: url(:/hentaivn.png);
+	min-width: 22px;
+	max-width: 22px;
+}
+
+QLabel#vagabond{
+	image: url(:/vagabond.png);
+	min-width: 22px;
+	max-width: 22px;
+}
